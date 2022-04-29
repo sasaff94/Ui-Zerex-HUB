@@ -1,5 +1,5 @@
 -- UI Library Credits to Sanda#9197
--- Script By Sanda#9197
+
 
 local DINOHUB = Instance.new("ScreenGui")
 local OPENCLOSE = Instance.new("TextButton")
